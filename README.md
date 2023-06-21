@@ -1,3 +1,10 @@
+# Instagram clone
+
+--The app was created to practise React, JavaScript and to work with the preprocessor SCSS.
+
+--The last version of the app was released in 26/01/2023
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
